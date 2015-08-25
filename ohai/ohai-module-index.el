@@ -17,7 +17,6 @@
 
 ;; You should have received a copy of the GNU General Public License
 ;; along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
 ;;; Code:
 
 (setq
@@ -43,6 +42,7 @@
    (ohai-eshell "the native Emacs shell" :optional)
    (ohai-unicode "enhanced Unicode support (warning: slows startup)" :optional)
    (ohai-html "HTML, CSS and friends" :optional)
+   (ohai-groovy "Groovy" :optional)
    (ohai-markdown "Markdown support" :optional)
    (ohai-javascript "JavaScript language support" :optional)
    (ohai-js-web-mode "alternative JS support using web-mode" :optional)
